@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UAV Project (3)", "UAV Project (3).csproj", "{CBB3AE8F-8BC5-131D-A321-DECF2CF1D7D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB3AE8F-8BC5-131D-A321-DECF2CF1D7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB3AE8F-8BC5-131D-A321-DECF2CF1D7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB3AE8F-8BC5-131D-A321-DECF2CF1D7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB3AE8F-8BC5-131D-A321-DECF2CF1D7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
