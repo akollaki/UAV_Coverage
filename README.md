@@ -1,9 +1,10 @@
 # UAV_Coverage
 
-authors:                            Avgi Kollakidou
+authors:                            Avgi Kollakidou,
                                     Maria Eduarda Andrada
                                     
-previous work (control algorithm):  Andrea Nistico, Alessio Capitanelli
+previous work (control algorithm):  Andrea Nistico, 
+                                    Alessio Capitanelli
 
 release date:                       01.03.2018
 
